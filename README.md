@@ -7,3 +7,8 @@
  Utilizada a API do TMBD
  
  https://www.themoviedb.org/
+
+
+Veja funcionando no link abaixo.
+
+https://amazon-interface.vercel.app/
